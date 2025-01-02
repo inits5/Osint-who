@@ -13,5 +13,5 @@ pip install -r requirements.txt
 ```
 
 ```
-python main.py
+python Osint-who.py
 ```
