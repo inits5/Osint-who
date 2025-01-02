@@ -1,0 +1,4 @@
+termcolor
+pyfiglet
+aiohttp
+beautifulsoup4
